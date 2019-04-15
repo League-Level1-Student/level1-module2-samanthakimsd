@@ -4,11 +4,9 @@ package minion;
  *    Level 1
  */
 
-
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
-
 
 /*
 
@@ -60,6 +58,3 @@ public class MinionTest {
 	}
 
 }
-
-
-
