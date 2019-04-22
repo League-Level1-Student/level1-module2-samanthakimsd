@@ -1,4 +1,4 @@
-package sea_creature;
+package Minion;
 
 public class Minion {
 	private String name;
@@ -42,4 +42,13 @@ public class Minion {
 public void setEyes(int eyes) {
 	
 	this.eyes = eyes;
+}
+public void setColor(String color) {
+	
+	this.color = color;
+}
+public void setMaster(String master) {
+	
+	this.master = master;
+}
 }
